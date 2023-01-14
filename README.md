@@ -6,6 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/CodeNameQuan/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/CodeNameQuan/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CodeNameQuan/osTicket-Lifecycles-Examples)
+  - [osTicket: osTicket Email Configuration](https://github.com/CodeNameQuan/osTicket-email-config)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CodeNameQuan/Configuring-on-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CodeNameQuan/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
